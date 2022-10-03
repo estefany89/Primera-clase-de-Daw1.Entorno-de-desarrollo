@@ -63,6 +63,8 @@
 
 6. #### ¿Puede considerarse código objeto el **bytecode** generado en Java tras la compilación? Explica la respuesta.
 
+   Puede considerarse código objeto pero destinado a la máquina virtual de Java en lugar de código objeto nativo, después este bytecode se interpreta para ejecutarlo.
+
    ------
 
 7. #### Pon un ejemplo de lenguaje de los siguientes tipos:
