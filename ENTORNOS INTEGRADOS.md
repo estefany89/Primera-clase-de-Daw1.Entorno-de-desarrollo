@@ -1,7 +1,7 @@
 ## Entornos desarrollo integrado
 
 1. Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
-
+![imagen]()
    ![](/media/estefany/TEFY/IMAGENES EDS/Captura desde 2022-10-20 08-21-11.png)
 
    ------
