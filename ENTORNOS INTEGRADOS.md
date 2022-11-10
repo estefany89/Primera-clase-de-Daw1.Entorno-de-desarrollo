@@ -31,7 +31,49 @@
 
    Para los desarrolladores de páginas  web, que trabajan con archivos http, no es suficiente un editor de texto simple, se requiere en concreto para el frontend, Emmet da una vuelta  de tuerca más para hacerte altamente productivo, se trata de un plugin  que a base de escribir pequeñas abreviaciones genera grandes estructuras de código HTML y CSS.
 ```
-añadir
+<DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EJEMPLO-ESTEFANY - texto</title>
+    
+</head>
+<body>
+
+    <!--  texto comentado  -->
+    <!--  p*>lorem   -->
+
+    <h1>EJEMPLO ENTORNO</h1>
+
+    <h2>Desarrollo del software</h2>
+
+<p>El desarrollo de software se refiere a un conjunto de actividades informáticas dedicadas al proceso de creación, diseño, despliegue y compatibilidad de software.
+
+    El software en sí es el conjunto de instrucciones o programas que le dicen a una computadora qué hacer.. 
+  </p>
+
+
+    <h2>Lenguaje de maquina</h2>
+
+    <p>También conocido como código máquina, se trata del lenguaje que pueden ejecutar los ordenadores y otros sistemas de computación mas información al siguiente correo<span class="correo">info@local.com</span></p>
+
+
+
+    <h2>Compilador</h2>
+
+    <p>Un compilador es un programa informático que traduce todo el código fuente de un proyecto de software a código máquina antes de ejecutarlo. Solo entonces el procesador ejecuta el software, obteniendo todas las instrucciones en código máquina antes de comenzar.</p>
+
+
+   
+    <h2>prueba</h2>
+
+    <p class="destacar">Lorem ipsum, <strong>dolor sit amet</strong>  consectetur adipisicing elit. Corporis facere eius, expedita omnis reprehenderit, culpa laboriosam at reiciendis repellat cupiditate <em>suscipit officiis minus</em> est adipisci, ex perferendis. Dignissimos, sequi voluptatum?</p>
+
+    
+</body>
+</html>
 ```
    ------
 
