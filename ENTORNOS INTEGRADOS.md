@@ -46,7 +46,7 @@
 
     <h2>Desarrollo del software</h2>
 
-<p>El desarrollo de software se refiere a un conjunto de actividades informáticas dedicadas al proceso de creación, diseño, despliegue y compatibilidad de software.
+    <p>El desarrollo de software se refiere a un conjunto de actividades informáticas dedicadas al proceso de creación, diseño, despliegue y compatibilidad  de software.
 
     El software en sí es el conjunto de instrucciones o programas que le dicen a una computadora qué hacer.. 
   </p>
