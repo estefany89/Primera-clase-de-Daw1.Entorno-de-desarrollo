@@ -41,7 +41,8 @@ añadir
 
   
 
-5. Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
+5. Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes aspectos:
+
  ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/51b97e6ffdbfea0eaa556694fffdfaa634e9c228/imagenes/IMA4.png)
 
 
