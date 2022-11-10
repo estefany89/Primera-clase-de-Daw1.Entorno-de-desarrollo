@@ -42,7 +42,7 @@ añadir
   
 
 5. Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
- ![imagen]()
+ ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/51b97e6ffdbfea0eaa556694fffdfaa634e9c228/imagenes/IMA4.png)
 
 
    ------
@@ -64,12 +64,9 @@ añadir
    ------
 
 8. Crea un proyecto en Java en Netbeans. Realiza su compilación y ejecución.
- ![imagen]()
- ![imagen]()
-   ![](/media/estefany/JEAN/IMAGENES EDS/Captura desde 2022-10-26 14-12-38.png)
-
-   ![](/home/estefany/Imágenes/Capturas de pantalla/Captura desde 2022-10-26 14-10-45.png)
-
+ ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/51b97e6ffdbfea0eaa556694fffdfaa634e9c228/imagenes/IMA7.png)
+ ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/51b97e6ffdbfea0eaa556694fffdfaa634e9c228/imagenes/IMA6.png)
+   
    ------
 
 9. ¿Qué sistema de construcción utiliza Netbeans para generar los archivos "ejecutables"? Mira en el directorio raíz del proyecto y examina qué *buildfile* utiliza de los vistos en el tema.
