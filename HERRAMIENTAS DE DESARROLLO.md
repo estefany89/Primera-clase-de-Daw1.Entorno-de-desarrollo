@@ -23,8 +23,7 @@
      ```
      console.log('Hola mundo');
      ```
-   
-     ![](/home/estefany/Imágenes/Capturas de pantalla/Js.png)
+   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/fd384d0e573f25f4924907badbd188e6d8c8a3c5/imagenes/Js.png)
    
    - **c**
    
