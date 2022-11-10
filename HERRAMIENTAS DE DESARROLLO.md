@@ -8,7 +8,7 @@
      echo "Hola Mundo"
      ```
    
-     ![](/home/estefany/Imágenes/Capturas de pantalla/bash.png)
+    ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/2d01fbc155c1a2715524fa3e580d1f720f226ed9/imagenes/bash.png)
    
    - **python**
    
