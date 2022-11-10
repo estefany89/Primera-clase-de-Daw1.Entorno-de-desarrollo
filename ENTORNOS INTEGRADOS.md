@@ -39,13 +39,13 @@ añadir
    ------
 
 4. Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
-
+ ![imagen]()
    ![](/home/estefany/Imágenes/Capturas de pantalla/Captura desde 2022-10-19 13-36-08.png)
 
    ------
 
 5. Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
-
+ ![imagen]()
    ![](/media/estefany/TEFY/IMAGENES EDS/COMPARATIVA.png)
 
    ------
@@ -61,13 +61,14 @@ añadir
    ------
 
 7. Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
-
+ ![imagen]()
    ![](/home/estefany/Imágenes/Capturas de pantalla/Captura desde 2022-10-19 14-00-33.png)
 
    ------
 
 8. Crea un proyecto en Java en Netbeans. Realiza su compilación y ejecución.
-
+ ![imagen]()
+ ![imagen]()
    ![](/media/estefany/JEAN/IMAGENES EDS/Captura desde 2022-10-26 14-12-38.png)
 
    ![](/home/estefany/Imágenes/Capturas de pantalla/Captura desde 2022-10-26 14-10-45.png)
