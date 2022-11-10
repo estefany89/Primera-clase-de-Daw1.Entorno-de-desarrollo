@@ -42,9 +42,6 @@
 </head>
 <body>
 
-    <!--  texto comentado  -->
-    <!--  p*>lorem   -->
-
     <h1>EJEMPLO ENTORNO</h1>
 
     <h2>Desarrollo del software</h2>
