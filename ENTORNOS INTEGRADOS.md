@@ -36,14 +36,14 @@ añadir
    ------
 
 4. Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
- ![imagen]()
-   ![](/home/estefany/Imágenes/Capturas de pantalla/Captura desde 2022-10-19 13-36-08.png)
+ ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/5371f04ead23d821f67f6842fa7fc8431303e5ff/imagenes/IMA3.png)
+  
 
-   ------
+  
 
 5. Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes  aspectos:
  ![imagen]()
-   ![](/media/estefany/TEFY/IMAGENES EDS/COMPARATIVA.png)
+
 
    ------
 
@@ -58,8 +58,8 @@ añadir
    ------
 
 7. Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
- ![imagen]()
-   ![](/home/estefany/Imágenes/Capturas de pantalla/Captura desde 2022-10-19 14-00-33.png)
+ ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/5371f04ead23d821f67f6842fa7fc8431303e5ff/imagenes/IMA5.png)
+   
 
    ------
 
