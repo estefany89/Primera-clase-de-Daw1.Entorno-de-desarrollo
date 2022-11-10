@@ -2,7 +2,7 @@
 
 1. Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
 
-   ![imagen]()
+   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/86ef6bb6ae7cdbda836d0898b678d65219c248e3/imagenes/IMA1.png)
   
 
 2. Personaliza Sublime text instalando los complementos más importantes. 
