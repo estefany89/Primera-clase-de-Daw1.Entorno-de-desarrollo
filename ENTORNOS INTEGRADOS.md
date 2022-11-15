@@ -93,7 +93,7 @@
 
    - Open JDK
 
-   - Geany
+  
 
    ------
 
