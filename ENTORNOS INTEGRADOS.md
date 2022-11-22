@@ -67,6 +67,10 @@
     <h2>prueba</h2>
 
     <p class="destacar">Lorem ipsum, <strong>dolor sit amet</strong>  consectetur adipisicing elit. Corporis facere eius, expedita omnis reprehenderit, culpa laboriosam at reiciendis repellat cupiditate <em>suscipit officiis minus</em> est adipisci, ex perferendis. Dignissimos, sequi voluptatum?</p>
+   
+   <!--Abreviacion emmet tamaño imagen-->
+   <img src="figuras/pensando.jpg" alt="muñeco sobre ratón pensando" width="225" height="225">
+   
 
     
 </body>
