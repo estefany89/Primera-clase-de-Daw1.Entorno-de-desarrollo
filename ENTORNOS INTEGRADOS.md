@@ -115,7 +115,7 @@
 
 9. ¿Qué sistema de construcción utiliza Netbeans para generar los archivos "ejecutables"? Mira en el directorio raíz del proyecto y examina qué *buildfile* utiliza de los vistos en el tema.
 
-Sistemas ejecutables.
+   Sistemas ejecutables.
    - Gradel
    - Maiven
 
