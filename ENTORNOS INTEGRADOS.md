@@ -119,3 +119,7 @@
    - Gradel
    - Maiven
 
+Plugin: Pregunta EXTRA!!! (no viene en la relacion)
+Instala el plugin "NB Mind Map" en Netbeans, asocia un mapa mental al proyecto que has creado en el ejercico 9
+![imagen.()
+
