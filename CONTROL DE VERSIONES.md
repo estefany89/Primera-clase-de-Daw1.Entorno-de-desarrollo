@@ -34,7 +34,6 @@
 
    Inicializa un directorio existente como un repositorio Gif
 
-   ****
 
    ------
 
