@@ -17,7 +17,7 @@
 3. **Busca en Internet un buen tutorial de GIT y realízalo. ¿De qué tutorial se trata?**
     
   - https://www.youtube.com/watch?v=VdGzPZ31ts8
-  - Aprende GIT ahora! curso completo GRATIS desde cero
+    Aprende GIT ahora! curso completo GRATIS desde cero
    
 
    ------
