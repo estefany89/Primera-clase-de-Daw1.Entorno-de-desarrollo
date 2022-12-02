@@ -22,7 +22,7 @@
 
    - https://www.youtube.com/watch?v=uR6G2v_WsRA
 
-     ------
+   ------
 
 5. **En Git, ¿para qué sirve el comando `git config`?** 
 
@@ -50,8 +50,7 @@
    Mostrar archivos modificados en el directorio de trabajo, preparados para su próxima confirmación
 
    
-
- ------
+  ------
 
 9. **En Git, ¿para qué sirve el comando `git add`?** 
 
