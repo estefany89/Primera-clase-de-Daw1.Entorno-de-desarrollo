@@ -51,7 +51,7 @@
 
    
 
-   ------
+ ------
 
 9. **En Git, ¿para qué sirve el comando `git add`?** 
 
@@ -95,7 +95,7 @@
 
 - https://www.youtube.com/watch?v=FyAAIHHClqI
 
-  ------
+------
 
 15. **En Git, ¿para qué sirve el comando `git branch`?** 
 
@@ -111,7 +111,7 @@
 
 **17.En Git, ¿para qué sirve el comando `git merge`?** 
 
-     Fusiona el historial de la rama especificada en el actual.
+    Fusiona el historial de la rama especificada en el actual.
 
 
 ------
