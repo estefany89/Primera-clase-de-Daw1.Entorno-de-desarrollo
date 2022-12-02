@@ -112,7 +112,8 @@
 
 **17.En Git, ¿para qué sirve el comando `git merge`?** 
 
-    Fusiona el historial de la rama especificada en el actual.
+   Fusiona el historial de la rama especificada en el actual.
+
 
 ------
 
