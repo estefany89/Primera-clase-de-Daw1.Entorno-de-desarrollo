@@ -102,7 +102,7 @@
 
 15. **En Git, ¿para qué sirve el comando `git branch`?** 
 
-    Enumera tus sucursales. a* aparecerá junto a la sucursal actualmente activa.
+    Muestra las ramas que tenemos en nuestro proyecto.
 
 ------
 
