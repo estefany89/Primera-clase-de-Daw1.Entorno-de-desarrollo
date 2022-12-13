@@ -134,9 +134,9 @@
 Git identifica estas tres confirmaciones mediante instantáneas. Git compara el ancestro común con cada una de las confirmaciones de punta.
 La fusión de 3-way funciona:
 
-    El ancestro común.
-    La punta de la rama Master.
-    La punta de la rama de funciones.
+    -El ancestro común.
+    -La punta de la rama Master.
+    -La punta de la rama de funciones.
 
 ![git merge 3-way 1](http://jamj2000.github.io/entornosdesarrollo/4/assets/git-merge-3way1.png)
 
