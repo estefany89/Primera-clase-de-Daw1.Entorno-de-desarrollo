@@ -102,7 +102,7 @@
 
 15. **En Git, ¿para qué sirve el comando `git branch`?** 
 
-    Muestra las ramas que tenemos en nuestro proyecto.
+   Te permite crear, enumerar y eliminar ramas, así como cambiar su nombre.
 
 ------
 
