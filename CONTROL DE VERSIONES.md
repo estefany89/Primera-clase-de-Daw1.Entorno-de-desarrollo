@@ -131,8 +131,15 @@
 
 19. **En Git, explica cómo funciona la fusión (merge) de tipo 3-way.**
 
+Git identifica estas tres confirmaciones mediante instantáneas. Git compara el ancestro común con cada una de las confirmaciones de punta.
+La fusión de 3-way funciona:
 
+    El ancestro común.
+    La punta de la rama Master.
+    La punta de la rama de funciones.
 
 ![git merge 3-way 1](http://jamj2000.github.io/entornosdesarrollo/4/assets/git-merge-3way1.png)
 
 ![git merge 3-way 2](http://jamj2000.github.io/entornosdesarrollo/4/assets/git-merge-3way2.png)
+
+
