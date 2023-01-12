@@ -34,15 +34,11 @@ Las herramientas de **Parasoft** están disponibles para estos lenguajes de prog
 
 **Instala en Netbeans el plugin FindBugs, si no lo tienes aún instalado.**
 
-![](/home/estefany/Imágenes/Capturas de pantalla/Captura desde 2023-01-12 08-24-34.png)
-
-![git add](imagenes/Captura desde 2023-01-12 08-24-34.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/86ef6bb6ae7cdbda836d0898b678d65219c248e3/imagenes/IMA1.png)
 
 ------
 
-**Realiza análisis estático de código para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1#análisis-estático-de-código-con-findbugs-en-netbeans)**
-
-![](/home/estefany/Imágenes/proyecto.png)
+**Realiza análisis estático de código para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs]![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/86ef6bb6ae7cdbda836d0898b678d65219c248e3/imagenes/IMA1.png)
 
 ------
 
