@@ -34,7 +34,7 @@ Las herramientas de **Parasoft** están disponibles para estos lenguajes de prog
 
 **Instala en Netbeans el plugin FindBugs, si no lo tienes aún instalado.**
 
-![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/commit/7a4b379892e5f805bd5723429f29f760b6052e86)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/fe56cc353acd0521dd1265fa9537b7c8e62c6e9e/imagenes/Captura%20desde%202023-01-12%2008-24-34.png)
 
 ------
 
