@@ -36,7 +36,7 @@ Las herramientas de **Parasoft** están disponibles para estos lenguajes de prog
 
 ![](/home/estefany/Imágenes/Capturas de pantalla/Captura desde 2023-01-12 08-24-34.png)
 
-
+![git add]([http://jamj2000.github.io/entornosdesarrollo/4/assets/git-add.png](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/7a4b379892e5f805bd5723429f29f760b6052e86/imagenes/Captura%20desde%202023-01-12%2008-24-34.png)
 
 ------
 
