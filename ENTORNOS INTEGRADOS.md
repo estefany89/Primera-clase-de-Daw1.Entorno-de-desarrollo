@@ -86,7 +86,7 @@
 
 5. Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes aspectos:
 
- ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/51b97e6ffdbfea0eaa556694fffdfaa634e9c228/imagenes/IMA4.png)
+ ![imagen](https://user-images.githubusercontent.com/113978919/212053878-3e6d79c4-880b-4bc4-9fe2-7f031b5cf6c5.png)
 
 
    ------
@@ -102,15 +102,18 @@
    ------
 
 7. Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
- ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/5371f04ead23d821f67f6842fa7fc8431303e5ff/imagenes/IMA5.png)
+
+ ![imagen](https://user-images.githubusercontent.com/113978919/212054031-68763b7c-4a69-4186-a48d-aa17d055c088.png)
+
    
 
    ------
 
 8. Crea un proyecto en Java en Netbeans. Realiza su compilación y ejecución.
- ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/51b97e6ffdbfea0eaa556694fffdfaa634e9c228/imagenes/IMA7.png)
- ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/51b97e6ffdbfea0eaa556694fffdfaa634e9c228/imagenes/IMA6.png)
-   
+
+ ![imagen](https://user-images.githubusercontent.com/113978919/212054209-446ce4e0-24ec-4131-a4ec-c979097fcd61.png)
+ ![imagen](https://user-images.githubusercontent.com/113978919/212054115-53f7ebea-e0cb-4821-9088-804fddbf990a.png)
+
    ------
 
 9. ¿Qué sistema de construcción utiliza Netbeans para generar los archivos "ejecutables"? Mira en el directorio raíz del proyecto y examina qué *buildfile* utiliza de los vistos en el tema.
@@ -123,5 +126,6 @@
 
 Plugin: Pregunta EXTRA!!! (no viene en la relacion)
 Instala el plugin "NB Mind Map" en Netbeans, asocia un mapa mental al proyecto.
- ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/main/imagenes/Mapa%20NB.png)
+
+![imagen](https://user-images.githubusercontent.com/113978919/212054363-d97153e0-8441-4965-b1a6-eb9dcdefef9a.png)
 
