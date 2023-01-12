@@ -8,8 +8,8 @@
      echo "Hola Mundo"
      ```
    
-    ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/2d01fbc155c1a2715524fa3e580d1f720f226ed9/imagenes/bash.png)
-   
+![imagen](https://user-images.githubusercontent.com/113978919/212055935-ebf42cc8-73cf-46ac-973f-b079f28470be.png)
+
    - **python**
    
      ```
@@ -23,7 +23,7 @@
      ```
      console.log('Hola mundo');
      ```
-   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/fd384d0e573f25f4924907badbd188e6d8c8a3c5/imagenes/Js.png)
+![imagen](https://user-images.githubusercontent.com/113978919/212056112-74ad050c-1105-4857-9b1e-233c7551fda0.png)
    
    - **c**
    
