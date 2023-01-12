@@ -60,7 +60,7 @@
 
    Agrega un archivo como se ve ahora para su próxima confirmación (etapa)
 
-![imagen](https://user-images.githubusercontent.com/113978919/212054630-a96dae71-ce0f-47ab-88fb-e823a5027edf.png)
+![imagen](https://user-images.githubusercontent.com/113978919/212055762-340b0e41-27e3-4795-bfa6-240f3471d880.png)
 
 
 ------
