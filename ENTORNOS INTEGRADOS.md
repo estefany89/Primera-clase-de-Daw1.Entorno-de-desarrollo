@@ -79,8 +79,8 @@
    ------
 
 4. Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
- ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/5371f04ead23d821f67f6842fa7fc8431303e5ff/imagenes/IMA3.png)
   
+![imagen](https://user-images.githubusercontent.com/113978919/212053446-d23544b4-e25d-4967-880e-5b362e144197.png)
 
   
 
