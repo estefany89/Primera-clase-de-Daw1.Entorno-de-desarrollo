@@ -38,7 +38,8 @@ Las herramientas de **Parasoft** están disponibles para estos lenguajes de prog
 
 ------
 
-**Realiza análisis estático de código para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs]![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/86ef6bb6ae7cdbda836d0898b678d65219c248e3/imagenes/IMA1.png)
+**Realiza análisis estático de código para las clases del proyecto *miapp*. Consulta el siguiente enlace: [análisis estático con FindBugs]
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/91ddbd1f7e1c52fa5626598364e9fc2b744c58a0/imagenes/Captura%20desde%202023-01-12%2008-24-17.png)
 
 ------
 
