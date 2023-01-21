@@ -36,20 +36,14 @@
 #   Diagramas de clases
 
 1. **Siguiendo la notación UML, pon 2 ejemplos de clases distintos a los vistos en este tema.**
-
-   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
-
-   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D8.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D7.png)
 
    ------
 
 2. **Siguiendo la notación UML, pon 2 ejemplos de interfaces distintos a los vistos en este tema.**
-
-   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
-
-   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
-
-   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+  ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D9.png)
+  ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D10.png)
 
    ------
 
@@ -74,9 +68,13 @@
 
 2. **Escoge uno de tus proyectos realizado en Java que disponga de varias clases. Genera el diagrama de clases haciendo uso del plugin EasyUML.**
  ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/d2bc5404f47392eb68ca04cada06fb8a805609f8/imagenes/D2.png)
-
-   ------
+ ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/d2bc5404f47392eb68ca04cada06fb8a805609f8/imagenes/D3.png)
+   
 
 3. **Haciendo uso del plugin Diagrams.net Integration: diseña un proyecto con varias clases y genera el código automáticamente.**
-![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/d2bc5404f47392eb68ca04cada06fb8a805609f8/imagenes/D3.png)
+   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D4.png)
+   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D5.png)
+   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D6.png)
+   
+
    
