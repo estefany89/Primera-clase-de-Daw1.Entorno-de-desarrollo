@@ -37,9 +37,19 @@
 
 1. **Siguiendo la notación UML, pon 2 ejemplos de clases distintos a los vistos en este tema.**
 
+   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+
+   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+
    ------
 
 2. **Siguiendo la notación UML, pon 2 ejemplos de interfaces distintos a los vistos en este tema.**
+
+   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+
+   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+
+   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
 
    ------
 
@@ -58,13 +68,16 @@
 #   Software
 
 1. **En EasyUML usa IDEA, instala el plugin Diagrams.net Integration:**
-
-   
-
+ ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/da6fb919d3472cecea1ae2fc161d2abc998360a6/imagenes/D1.png)
+  
    ------
 
 2. **Escoge uno de tus proyectos realizado en Java que disponga de varias clases. Genera el diagrama de clases haciendo uso del plugin EasyUML.**
 
+   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+
    ------
 
 3. **Haciendo uso del plugin Diagrams.net Integration: diseña un proyecto con varias clases y genera el código automáticamente.**
+
+   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
