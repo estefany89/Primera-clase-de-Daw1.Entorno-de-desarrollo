@@ -4,9 +4,9 @@
 
    UML *Lenguaje de modelado unificado*
 
-   UML es una notación que se originó como resultado de la unificación de la técnica de modelado de objetos (OMT por sus siglas en inglés Rumbaugh et al., 1991, Booch Booch  1941 e ingeniería de software orientada a objetos (OOSE, por sus siglas en inglés Jacobson et al., 1992).  LVersiones :
+   UML es una notación que se originó como resultado de la unificación de la técnica de modelado de objetos (OMT por sus siglas en inglés Rumbaugh et al., 1991, Booch Booch  1941 e ingeniería de software orientada a objetos (OOSE, por sus siglas en inglés Jacobson et al., 1992).  LVersiones 
       
-   
+Versiones:
 Lenguaje Unificado de Modelado (UML) Versión 0.8 y 0.9 (1995)
 
 Lenguaje Unificado de Modelado (UML) Versión 1.0 y 1.1 (Año 1997)
@@ -32,6 +32,9 @@ Lenguaje Unificado de Modelado (UML) Versión 2.4.1 (2011)
 Lenguaje Unificado de Modelado (UML) Versión 2.5 (2015
    
 Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017) 
+
+
+--------
 2. **Indica los tipos de diagramas de estructura que existen en UML.**
 
    Los más utilizados son:
@@ -58,7 +61,7 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D8.png)
 ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D7.png)
 
-
+-----------
 2. **Siguiendo la notación UML, pon 2 ejemplos de interfaces distintos a los vistos en este tema.**
   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D9.png)
   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D10.png)
