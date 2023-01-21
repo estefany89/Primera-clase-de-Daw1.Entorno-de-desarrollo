@@ -73,11 +73,10 @@
    ------
 
 2. **Escoge uno de tus proyectos realizado en Java que disponga de varias clases. Genera el diagrama de clases haciendo uso del plugin EasyUML.**
-
-   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+ ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/d2bc5404f47392eb68ca04cada06fb8a805609f8/imagenes/D2.png)
 
    ------
 
 3. **Haciendo uso del plugin Diagrams.net Integration: diseña un proyecto con varias clases y genera el código automáticamente.**
-
-   ![imagen](https://user-images.githubusercontent.com/113978919/212051624-41fc6d90-c3bb-4c2a-9a5e-d51e381daf99.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/d2bc5404f47392eb68ca04cada06fb8a805609f8/imagenes/D3.png)
+   
