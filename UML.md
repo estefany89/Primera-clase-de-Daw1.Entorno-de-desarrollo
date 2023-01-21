@@ -4,16 +4,34 @@
 
    UML *Lenguaje de modelado unificado*
 
-   UML es una notación que se originó como resultado de la unificación de la técnica de modelado de objetos (OMT por sus siglas en inglés Rumbaugh et al., 1991, Booch Booch  1941 e ingeniería de software orientada a objetos (OOSE, por sus siglas en inglés Jacobson et al., 1992).
-
-   La primera versión de este lenguaje de modelado aparece en junio de 1996 con el nombre de UML 0.9. En octubre de este mismo año aparece la versión 0.91 de UML.
-
-   Los antecedentes de UML se sitúan en la década de los  90 con distintos estándares para modelado de software, no obstante  podemos hablar de dos grandes versiones: UML 1. X (comprende UML 1.1, 1.2, 1.3, 1.4, 1.5): desde finales de los 90 se empezó a trabajar con el estándar UML. La versión actual de UML es la 2.5.1 y fue publicada en diciembre de 2017. UML es gestionada y actualizada por la OMG (Object Management Group).
-
+   UML es una notación que se originó como resultado de la unificación de la técnica de modelado de objetos (OMT por sus siglas en inglés Rumbaugh et al., 1991, Booch Booch  1941 e ingeniería de software orientada a objetos (OOSE, por sus siglas en inglés Jacobson et al., 1992).  LVersiones :
+      
    
+Lenguaje Unificado de Modelado (UML) Versión 0.8 y 0.9 (1995)
 
-   ------
+Lenguaje Unificado de Modelado (UML) Versión 1.0 y 1.1 (Año 1997)
 
+Lenguaje Unificado de Modelado (UML) Versión 1.3 (2000)
+
+Lenguaje Unificado de Modelado (UML) Versión 1.4 (2001)
+
+Lenguaje Unificado de Modelado (UML) Versión 1.5 (2003)
+
+Lenguaje Unificado de Modelado (UML) Versión 1.4.2 y 2.0 (Año 2005)
+
+Lenguaje Unificado de Modelado (UML) Versión 2.1 (2006)
+
+Lenguaje Unificado de Modelado (UML) Versión 2.1.1 y 2.1.2 (2007)
+
+Lenguaje Unificado de Modelado (UML) Versión 2.2 (2009)
+
+Lenguaje Unificado de Modelado (UML) Versión 2.3 (2010)
+
+Lenguaje Unificado de Modelado (UML) Versión 2.4.1 (2011)
+
+Lenguaje Unificado de Modelado (UML) Versión 2.5 (2015
+   
+Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017) 
 2. **Indica los tipos de diagramas de estructura que existen en UML.**
 
    Los más utilizados son:
