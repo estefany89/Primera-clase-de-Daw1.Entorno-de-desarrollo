@@ -108,7 +108,7 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
       
       Relación (asociación) entre un actor y un caso de uso
       
-       ![imagen](imagenes/I1.png)
+      ![imagen](imagenes/I1.png)
 
       
             
