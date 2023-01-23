@@ -130,17 +130,20 @@ Como podemos ver en este último ejemplo también pueden existir vínculos de ge
 
 4. **Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.**
 
-   ------
      - **Comunicación**
+      
    ![imagen](imagenes/I1.png)
       
      - **Inclusión**
+      
    ![imagen](imagenes/I2.png)
       
-     - **Ectensión**
+     - **Extensión**
+      
    ![imagen](imagenes/I3.png)
       
     - **Especialización y generalización de los casos de uso:**
+      
    ![imagen](imagenes/I4.png)
    
 
