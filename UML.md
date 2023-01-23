@@ -94,57 +94,35 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
       
 
 **Inclusión:** Un caso de uso base incorpora explícitamente el comportamiento de otro en algún lugar de su secuencia. La relación de inclusión sirve para enriquecer un caso de uso con otro y compartir una funcionalidad común entre varios casos de uso, también puede utilizarse para estructurar un caso de uso describiendo sus subfunciones. El caso de uso incluido existe únicamente con ese propósito, ya que no responde a un objetivo de un actor.
-
-Estas relaciones se representan mediante una flecha discontinua con el estereotipo <<include>>. Algunos casos de uso típicos de inclusión son: comprobar, verificar, buscar, validar, autentificar o login… En principio, no deberíamos abusar de este tipo de relación, para no hacer una descomposición funcional del sistema. A partir de UML 1.3 la relación <<include>> reemplazó al denominado <<uses>>.
-
- 
-
-Veamos un ejemplo de inclusión entre casos de uso:
-
-Ejemplo de inclusión
-
  
 
 **Extensión:** Un caso de uso base incorpora implícitamente el comportamiento de otro caso de uso en el lugar especificado indirectamente por este otro caso de uso. En el caso de uso base, la extensión se hace en una serie de puntos concretos y previstos en el momento del diseño, llamados puntos de extensión, los cuáles no son parte del flujo principal. La relación de extensión sirve para modelar: la parte opcional del sistema, un subflujo que sólo se ejecuta bajo ciertas condiciones o varios flujos que se pueden insertar en un punto determinado. Este tipo de relación produce confusión y no debería utilizarse en exceso. Conviene su uso sólo para insertar un nuevo comportamiento no previsto en un caso de uso existente. Estas relaciones se representan mediante una flecha discontinua con el estereotipo <<extend>>.
 
-Veamos un ejemplo de extensión:
-
- 
-
-En este ejemplo usamos la relación de extensión entre los casos de uso Abrir acción de mejora y Resolver consulta. En este caso tendremos el punto de extensión “resolución retrasada” (en el caso de uso Resolver consulta) debido a que cuando haya pasado un tiempo estipulado por la organización (por ejemplo 3 días laborales) se abrirá una acción de mejora para dejar constancia del retraso y realizar posteriormente las acciones pertinentes, de ahí que digamos que el caso de uso Abrir acción de mejora es una subfunción de uso que puede extender al caso de uso Resolver consulta.
-
- 
 
 **Especialización y generalización de los casos de uso:** Un caso de uso (subcaso) hereda el comportamiento y significado de otro, es decir las relaciones de comunicación, inclusión y extensión del super-caso de uso. En muchas ocasiones este super-caso de uso es abstracto y corresponde a un comportamiento parcial completado en el subcaso de uso. O dicho de otra manera, Los casos de uso “hijo” son una especialización del caso de uso “padre”. En la medida de lo posible debería evitarse puesto que produce cierta confusión en algunas ocasiones.
 
  
 
-Veamos un ejemplo de generalización:
-
- 
-
-Como podemos ver en este último ejemplo también pueden existir vínculos de generalización o herencia entre actores. Los actores especializados (Abogado y Psicólogo) heredan los casos de uso del actor general (Profesional). La punta de flecha apunta al actor más general. Hay que reseñar que los actores especializados pueden tener otros casos de uso propios que no estarán disponibles para los demás actores. Este tipo de herencia entre actores si que se usa frecuentemente puesto que nos simplifica considerablemente el diagrama, nos ahorra un número importante de relaciones de comunicación entre actores y casos de uso y nos sirve para esclarecer visualmente la jerarquía entre actores del sistema.
-
-
-  
-
 4. **Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.**
 
-     - **Comunicación**
+      - **Comunicación**
       
-   ![imagen](imagenes/I1.png)
+      ![imagen](imagenes/I1.png)
       
      - **Inclusión**
+Estas relaciones se representan mediante una flecha discontinua con el estereotipo <<include>>. Algunos casos de uso típicos de inclusión son: comprobar, verificar, buscar, validar, autentificar o login… En principio, no deberíamos abusar de este tipo de relación, para no hacer una descomposición funcional del sistema. A partir de UML 1.3 la relación <<include>> reemplazó al denominado <<uses>>.
       
-   ![imagen](imagenes/I2.png)
+      ![imagen](imagenes/I2.png)
       
      - **Extensión**
+ En este ejemplo usamos la relación de extensión entre los casos de uso Abrir acción de mejora y Resolver consulta. En este caso tendremos el punto de extensión “resolución retrasada” (en el caso de uso Resolver consulta) debido a que cuando haya pasado un tiempo estipulado por la organización (por ejemplo 3 días laborales) se abrirá una acción de mejora para dejar constancia del retraso y realizar posteriormente las acciones pertinentes, de ahí que digamos que el caso de uso Abrir acción de mejora es una subfunción de uso que puede extender al caso de uso Resolver consulta.
       
-   ![imagen](imagenes/I3.png)
+       ![imagen](imagenes/I3.png)
       
     - **Especialización y generalización de los casos de uso:**
+Como podemos ver en este último ejemplo también pueden existir vínculos de generalización o herencia entre actores. Los actores especializados (Abogado y Psicólogo) heredan los casos de uso del actor general (Profesional). La punta de flecha apunta al actor más general. Hay que reseñar que los actores especializados pueden tener otros casos de uso propios que no estarán disponibles para los demás actores. Este tipo de herencia entre actores si que se usa frecuentemente puesto que nos simplifica considerablemente el diagrama, nos ahorra un número importante de relaciones de comunicación entre actores y casos de uso y nos sirve para esclarecer visualmente la jerarquía entre actores del sistema.
       
-   ![imagen](imagenes/I4.png)
+       ![imagen](imagenes/I4.png)
    
 
 ```
