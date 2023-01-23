@@ -72,14 +72,16 @@ Diagrama Global de Interacciones
 
 ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D7.png)
 
------------
+
 2. **Siguiendo la notación UML, pon 2 ejemplos de interfaces distintos a los vistos en este tema.**
-  ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D9.png)
- ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D10.png)
+
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D9.png)
+
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D10.png)
 
 3. **Indica los tipos de relaciones que pueden darse y explica brevemente.**
 
-   ------
+  
 
 4. **Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.**
 
