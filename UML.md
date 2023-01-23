@@ -108,14 +108,14 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
       
       Relación (asociación) entre un actor y un caso de uso
       
-      ![imagen](imagenes/I1.png)
+       ![imagen](imagenes/I1.png)
 
       
             
      - **Inclusión**
 Estas relaciones se representan mediante una flecha discontinua con el estereotipo <<include>>. Algunos casos de uso típicos de inclusión son: comprobar, verificar, buscar, validar, autentificar o login… En principio, no deberíamos abusar de este tipo de relación, para no hacer una descomposición funcional del sistema. A partir de UML 1.3 la relación <<include>> reemplazó al denominado <<uses>>.
       
-      ![imagen](imagenes/I2.png)
+       ![imagen](imagenes/I2.png)
       
      - **Extensión**
  En este ejemplo usamos la relación de extensión entre los casos de uso Abrir acción de mejora y Resolver consulta. En este caso tendremos el punto de extensión “resolución retrasada” (en el caso de uso Resolver consulta) debido a que cuando haya pasado un tiempo estipulado por la organización (por ejemplo 3 días laborales) se abrirá una acción de mejora para dejar constancia del retraso y realizar posteriormente las acciones pertinentes, de ahí que digamos que el caso de uso Abrir acción de mejora es una subfunción de uso que puede extender al caso de uso Resolver consulta.
