@@ -39,13 +39,13 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 --------
 2. **Indica los tipos de diagramas de estructura que existen en UML.**
 
-Diagramas de estructura (aspecto estático):
-Diagrama de Clases
-Diagrama de Componentes
-Diagrama de Objetos
-Diagrama de estructura compuesta
-Diagrama de Despliegue
-Diagrama de Paquetes
+*Diagramas de estructura (aspecto estático):
+*Diagrama de Clases
+*Diagrama de Componentes
+*Diagrama de Objetos
+*Diagrama de estructura compuesta
+*Diagrama de Despliegue
+*Diagrama de Paquetes
 
    ------
 
