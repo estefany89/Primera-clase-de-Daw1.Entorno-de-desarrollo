@@ -63,7 +63,6 @@ Diagrama Global de Interacciones
 
 ```
 
-```
 
 #   Diagramas de clases
 
