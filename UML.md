@@ -87,6 +87,13 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D9.png)
 
 3. **Indica los tipos de relaciones que pueden darse y explica brevemente.**
+-    Asociación
+--   Agregación
+--   Composición
+-   Dependencia
+-   Generalización
+-   Realización
+
 
   
 
