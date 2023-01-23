@@ -64,6 +64,7 @@ Diagrama Global de Interacciones
 ```
 
 
+```
 #   Diagramas de clases
 
 1. **Siguiendo la notación UML, pon 2 ejemplos de clases distintos a los vistos en este tema.**
