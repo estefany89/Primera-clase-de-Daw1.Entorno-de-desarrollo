@@ -106,11 +106,10 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 4. **Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.**
       - **Comunicación**
       Relación (asociación) entre un actor y un caso de uso
-      ![imagen]([imagenes/I1.png](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/1918e9bb399e472f6c7ef72277e16adcc4837009/imagenes/I1.png)
+      ![imagen](imagenes/I1.png)
 
       
-      
-      
+            
      - **Inclusión**
 Estas relaciones se representan mediante una flecha discontinua con el estereotipo <<include>>. Algunos casos de uso típicos de inclusión son: comprobar, verificar, buscar, validar, autentificar o login… En principio, no deberíamos abusar de este tipo de relación, para no hacer una descomposición funcional del sistema. A partir de UML 1.3 la relación <<include>> reemplazó al denominado <<uses>>.
       
