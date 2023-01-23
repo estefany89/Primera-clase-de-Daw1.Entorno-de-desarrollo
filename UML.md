@@ -88,8 +88,8 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 
 3. **Indica los tipos de relaciones que pueden darse y explica brevemente.**
 -    Asociación
---   Agregación
---   Composición
+      -   Agregación
+      -   Composición
 -   Dependencia
 -   Generalización
 -   Realización
