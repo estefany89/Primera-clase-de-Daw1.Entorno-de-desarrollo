@@ -104,8 +104,6 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
  
 
 4. **Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.**
-      -----
-
       - **Comunicación**
       
 Relación (asociación) entre un actor y un caso de uso
