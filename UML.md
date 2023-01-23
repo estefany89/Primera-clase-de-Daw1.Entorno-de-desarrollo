@@ -131,13 +131,17 @@ Como podemos ver en este último ejemplo también pueden existir vínculos de ge
 4. **Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.**
 
    ------
+     - **Comunicación**
    ![imagen](imagenes/I1.png)
       
-   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D5.png)
+     - **Inclusión**
+   ![imagen](imagenes/I2.png)
       
-   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D6.png)
+     - **Ectensión**
+   ![imagen](imagenes/I3.png)
       
-   ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D4.png)
+    - **Especialización y generalización de los casos de uso:**
+   ![imagen](imagenes/I4.png)
    
 
 ```
