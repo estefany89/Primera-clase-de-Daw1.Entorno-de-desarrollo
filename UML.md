@@ -90,7 +90,7 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 
 **relaciones en los diagramas de casos de uso:**
 
-**Comunicación:** Relación (asociación) entre un actor y un caso de uso. El estereotipo de la relación de comunicación es: <<communicate>> aunque generalmente no se estipula ningún nombre, como podemos apreciar en el siguiente ejemplo de comunicación:
+**Comunicación:** Relación (asociación) entre un actor y un caso de uso. El estereotipo de la relación de comunicación es: <<communicate>> aunque generalmente no se estipula ningún nombre.
       
 
 **Inclusión:** Un caso de uso base incorpora explícitamente el comportamiento de otro en algún lugar de su secuencia. La relación de inclusión sirve para enriquecer un caso de uso con otro y compartir una funcionalidad común entre varios casos de uso, también puede utilizarse para estructurar un caso de uso describiendo sus subfunciones. El caso de uso incluido existe únicamente con ese propósito, ya que no responde a un objetivo de un actor.
@@ -106,6 +106,8 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 4. **Siguiendo la notación UML, indica la representación gráfica de las relaciones de la actividad anterior.**
 
       - **Comunicación**
+      
+Relación (asociación) entre un actor y un caso de uso
       
       ![imagen](imagenes/I1.png)
       
