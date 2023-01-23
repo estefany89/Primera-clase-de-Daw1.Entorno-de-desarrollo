@@ -7,7 +7,7 @@
 UML muestra la arquitectura física de un sistema informático. Puede representar a los equipos y a los dispositivos, y también mostrar sus interconexiones y el software que se encontrará en cada máquina.
 UML es una notación que se originó como resultado de la unificación de la técnica de modelado de objetos (OMT por sus siglas en inglés Rumbaugh et al., 1991, Booch Booch  1941 e ingeniería de software orientada a objetos (OOSE, por sus siglas en inglés Jacobson et al., 1992).
       
-Versiones:
+- Versiones:
 
 -Lenguaje Unificado de Modelado (UML) Versión 0.8 y 0.9 (1995)
 
