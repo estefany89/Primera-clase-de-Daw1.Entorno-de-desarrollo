@@ -39,33 +39,33 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 --------
 2. **Indica los tipos de diagramas de estructura que existen en UML.**
 
-*Diagramas de estructura (aspecto estático):
+- Diagramas de estructura (aspecto estático):
 
-*Diagrama de Clases
+- Diagrama de Clases
 
-*Diagrama de Componentes
+- Diagrama de Componentes
 
-*Diagrama de Objetos
+- Diagrama de Objetos
 
-*Diagrama de estructura compuesta
+- Diagrama de estructura compuesta
 
-*Diagrama de Despliegue
+- Diagrama de Despliegue
 
-*Diagrama de Paquetes
+- Diagrama de Paquetes
 
    ------
 
 3. **Indica los tipos de diagramas de comportamiento que existen en UML.**
 
-  Diagramas de comportamiento (aspecto dinámico)
-Diagrama de Actividad
-Diagrama de Casos de uso
-Diagrama de maquina de estado
-Diagrama de Interacción
-Digrama de Tiempos
-Diagrama de Secuencias
-Diagrama de Comunicacion
-Diagrama Global de Interacciones
+- Diagramas de comportamiento (aspecto dinámico)
+- Diagrama de Actividad
+- Diagrama de Casos de uso
+- Diagrama de maquina de estado
+- Diagrama de Interacción
+- Digrama de Tiempos
+- Diagrama de Secuencias
+- Diagrama de Comunicacion
+- Diagrama Global de Interacciones
 
 ```
 
