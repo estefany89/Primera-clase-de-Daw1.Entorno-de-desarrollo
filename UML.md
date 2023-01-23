@@ -9,31 +9,31 @@ UML es una notación que se originó como resultado de la unificación de la té
       
 Versiones:
 
-Lenguaje Unificado de Modelado (UML) Versión 0.8 y 0.9 (1995)
+-Lenguaje Unificado de Modelado (UML) Versión 0.8 y 0.9 (1995)
 
-Lenguaje Unificado de Modelado (UML) Versión 1.0 y 1.1 (Año 1997)
+-Lenguaje Unificado de Modelado (UML) Versión 1.0 y 1.1 (Año 1997)
 
-Lenguaje Unificado de Modelado (UML) Versión 1.3 (2000)
+-Lenguaje Unificado de Modelado (UML) Versión 1.3 (2000)
 
-Lenguaje Unificado de Modelado (UML) Versión 1.4 (2001)
+-Lenguaje Unificado de Modelado (UML) Versión 1.4 (2001)
 
-Lenguaje Unificado de Modelado (UML) Versión 1.5 (2003)
+-Lenguaje Unificado de Modelado (UML) Versión 1.5 (2003)
 
-Lenguaje Unificado de Modelado (UML) Versión 1.4.2 y 2.0 (Año 2005)
+-Lenguaje Unificado de Modelado (UML) Versión 1.4.2 y 2.0 (Año 2005)
 
-Lenguaje Unificado de Modelado (UML) Versión 2.1 (2006)
+-Lenguaje Unificado de Modelado (UML) Versión 2.1 (2006)
 
-Lenguaje Unificado de Modelado (UML) Versión 2.1.1 y 2.1.2 (2007)
+-Lenguaje Unificado de Modelado (UML) Versión 2.1.1 y 2.1.2 (2007)
 
-Lenguaje Unificado de Modelado (UML) Versión 2.2 (2009)
+-Lenguaje Unificado de Modelado (UML) Versión 2.2 (2009)
 
-Lenguaje Unificado de Modelado (UML) Versión 2.3 (2010)
+-Lenguaje Unificado de Modelado (UML) Versión 2.3 (2010)
 
-Lenguaje Unificado de Modelado (UML) Versión 2.4.1 (2011)
+-Lenguaje Unificado de Modelado (UML) Versión 2.4.1 (2011)
 
-Lenguaje Unificado de Modelado (UML) Versión 2.5 (2015
+-Lenguaje Unificado de Modelado (UML) Versión 2.5 (2015
    
-Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017) 
+-Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017) 
 
 
 --------
