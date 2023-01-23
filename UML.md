@@ -88,7 +88,7 @@ Lenguaje Unificado de Modelado (UML) Versión 2.5.1 (2017)
 
 3. **Indica los tipos de relaciones que pueden darse y explica brevemente.**
 
-**relaciones en los diagramas de casos de uso:**
+**Relaciones en los diagramas de casos de uso:**
 
 **Comunicación:** Relación (asociación) entre un actor y un caso de uso. El estereotipo de la relación de comunicación es: <<communicate>> aunque generalmente no se estipula ningún nombre.
       
