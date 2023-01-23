@@ -125,7 +125,7 @@ Estas relaciones se representan mediante una flecha discontinua con el estereoti
     - **Especialización y generalización de los casos de uso:**
 Como podemos ver en este último ejemplo también pueden existir vínculos de generalización o herencia entre actores. Los actores especializados (Abogado y Psicólogo) heredan los casos de uso del actor general (Profesional). La punta de flecha apunta al actor más general. Hay que reseñar que los actores especializados pueden tener otros casos de uso propios que no estarán disponibles para los demás actores. Este tipo de herencia entre actores si que se usa frecuentemente puesto que nos simplifica considerablemente el diagrama, nos ahorra un número importante de relaciones de comunicación entre actores y casos de uso y nos sirve para esclarecer visualmente la jerarquía entre actores del sistema.
       
-       ![imagen]([imagenes/I4.png](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/b6956723c686858be6bef70b868794403fcad911/imagenes/I4.png)
+       ![imagen](imagenes/I4.png)
    
 
 ```
