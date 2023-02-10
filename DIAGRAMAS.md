@@ -31,7 +31,7 @@
 
    
 
-   [![Simbolo del caso de uso](https://1.bp.blogspot.com/-7ceRjefrLiA/YCSN_vkbbNI/AAAAAAAAHgI/NRbhF-X6MC4uJqkFL1-64tyQljt_6fXlQCLcBGAsYHQ/s16000/simbolo-del-caso-de-uso.png)](https://1.bp.blogspot.com/-7ceRjefrLiA/YCSN_vkbbNI/AAAAAAAAHgI/NRbhF-X6MC4uJqkFL1-64tyQljt_6fXlQCLcBGAsYHQ/s154/simbolo-del-caso-de-uso.png)
+  ![imagen](imagenes/incluir.png)
 
 
    Opcionalmente, los casos de uso pueden rodearse de un rectángulo que representa los límites del sistema.
@@ -42,6 +42,9 @@
 
 
    La interacción entre dos casos de uso o de un actor con un caso de uso se  representa por medio de una relación, utilizando una línea o una flecha  como se muestra en la figura:
+
+ 
+  ![imagen](imagenes/relacion.png)
 
    
 
