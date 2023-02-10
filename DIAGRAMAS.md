@@ -17,7 +17,8 @@
 
    
 
-   [![Simbolo del actor diagrama casos de uso](https://1.bp.blogspot.com/-Jadnv4frhG0/YCSNp83g7ZI/AAAAAAAAHgA/erv10XAfbbkBRdqI54j5gCPaMTlCwVQRQCLcBGAsYHQ/s16000/simbolo-del-actor-diagrama-casos-de-uso.png)](https://1.bp.blogspot.com/-Jadnv4frhG0/YCSNp83g7ZI/AAAAAAAAHgA/erv10XAfbbkBRdqI54j5gCPaMTlCwVQRQCLcBGAsYHQ/s174/simbolo-del-actor-diagrama-casos-de-uso.png)
+   
+![imagen]([https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0ea98da720371b24e8b46f52f2ee6f48874e0438/imagenes/D7.png](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/f457787213901425403ea1cae373a715ea564f8a/imagenes/actor.png))
 
    
 
