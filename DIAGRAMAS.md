@@ -6,7 +6,7 @@
 
    
 
-   -### **Actor** 
+  - ### **Actor** 
 
    - Representa a una persona o grupo de personas que desempeñan un papel en la interacción con el software.
 
