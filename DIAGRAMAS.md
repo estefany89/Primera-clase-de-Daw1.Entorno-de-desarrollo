@@ -10,10 +10,10 @@
 
     Representa a una persona o grupo de personas que desempeñan un papel en la interacción con el software.
 
-    También puede ser “cualquier elemento” externo que interactúe con el software  para lograr determinados objetivos, como por ejemplo otros sistemas,  productos de software y equipamiento.
+    También puede ser “cualquier elemento” externo que interactúe con el software  para lograr determinados objetivos, como por ejemplo otros sistemas,         productos de software y equipamiento.
 
    
-   Se representan con el siguiente símbolo:
+      Se representan con el siguiente símbolo:
 
    
 
