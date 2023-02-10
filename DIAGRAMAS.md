@@ -8,9 +8,9 @@
 
   - ### **Actor** 
 
-   - Representa a una persona o grupo de personas que desempeñan un papel en la interacción con el software.
+    Representa a una persona o grupo de personas que desempeñan un papel en la interacción con el software.
 
-   - También puede ser “cualquier elemento” externo que interactúe con el software  para lograr determinados objetivos, como por ejemplo otros sistemas,  productos de software y equipamiento.
+    También puede ser “cualquier elemento” externo que interactúe con el software  para lograr determinados objetivos, como por ejemplo otros sistemas,  productos de software y equipamiento.
 
    
    Se representan con el siguiente símbolo:
@@ -25,7 +25,7 @@
    - ### **Caso de uso**
 
 
-   Representa una funcionalidad (Conocida en inglés como Feature) que cumple uno o varios requisitos.  Al colocarles nombre es recomendable usar verbos infinitivos con un  complemento. Por ejemplo “Registrar nuevo cliente” en lugar de “Registro de nuevo cliente”.
+   Representa una funcionalidad (Conocida en inglés como Feature) que cumple uno o varios requisitos.  Al colocarles nombre es recomendable usar verbos        infinitivos con un  complemento. Por ejemplo “Registrar nuevo cliente” en lugar de “Registro de nuevo cliente”.
 
    El símbolo del caso de uso en el diagrama es una elipse con su nombre dentro, tal como se muestra a continuación:
 
@@ -41,7 +41,7 @@
    - ### **Relación**
 
 
-   La interacción entre dos casos de uso o de un actor con un caso de uso se  representa por medio de una relación, utilizando una línea o una flecha  como se muestra en la figura:
+   La interacción entre dos casos de uso o de un actor con un caso de uso se  representa por medio de una relación, utilizando una línea o una flecha como    se muestra en la figura:
 
  
   ![imagen](imagenes/relacion.png)
