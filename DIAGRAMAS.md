@@ -6,7 +6,7 @@
 
    
 
-   ### **Actor** 
+   - ### **Actor** 
 
    - Representa a una persona o grupo de personas que desempeñan un papel en la interacción con el software.
 
@@ -22,7 +22,7 @@
 
    
 
-   ### **Caso de uso**
+   - ### **Caso de uso**
 
 
    Representa una funcionalidad (Conocida en inglés como Feature) que cumple uno o varios requisitos.  Al colocarles nombre es recomendable usar verbos infinitivos con un  complemento. Por ejemplo “Registrar nuevo cliente” en lugar de “Registro de nuevo cliente”.
