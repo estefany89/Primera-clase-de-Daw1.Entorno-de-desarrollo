@@ -6,7 +6,7 @@
 
    
 
-   - ### **Actor** 
+   -### **Actor** 
 
    - Representa a una persona o grupo de personas que desempeñan un papel en la interacción con el software.
 
@@ -38,7 +38,7 @@
 
    
 
-   ### **Relación**
+   - ### **Relación**
 
 
    La interacción entre dos casos de uso o de un actor con un caso de uso se  representa por medio de una relación, utilizando una línea o una flecha  como se muestra en la figura:
