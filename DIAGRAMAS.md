@@ -55,6 +55,14 @@
 2. **Por cada ejemplo de diagrama de casos de uso que aparece en las diapositivas, realiza su interpretación. Escribe la descripción con tus palabras.**
 
    ------
+   - Ejemplo 1:
+   
+     ![imagen](imagenes/Ejemplo_1_casos_de_uso.png)
+     
+   - Ejemplo 2:
+   
+     ![imagen](imagenes/Ejemplo_1-2_casos_de_uso.png
+  
 
 
 
