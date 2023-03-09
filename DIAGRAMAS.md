@@ -202,7 +202,7 @@ En un sistema de autentificación de usuarios de Facebook, el personal/usuario o
      
 Es un sistema para representar los diferentes estados del agua, donde pasa de estado de hielo a liquido, esta a su vez pasa a vapor de agua y que termina en plasma, o también puede ser viceversa.
 
-Primero, desde el estado de hielo puede pasar a ser Estado liquido y al contrario Vapor de agua,
+Primero, desde el estado de hielo puede pasar a ser Estado liquido y al contrario Vapor de agua.
      
        
  ------
