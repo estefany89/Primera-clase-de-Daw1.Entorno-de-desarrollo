@@ -54,14 +54,20 @@
 
 2. **Por cada ejemplo de diagrama de casos de uso que aparece en las diapositivas, realiza su interpretación. Escribe la descripción con tus palabras.**
 
-   ------
-   - Ejemplo 1:
+  - Ejemplo 1:
    
      ![imagen](imagenes/Ejemplo_1_casos_de_uso.png)
      
-   - Ejemplo 2:
+
    
-     ![imagen](imagenes/Ejemplo_1-2_casos_de_uso.png
+     ![imagen](imagenes/Ejemplo_1-2_casos_de_uso.png)
+     
+ ------
+ - Ejemplo 2:
+   
+     ![imagen](imagenes/Ejemplo_2_casos_de_uso.png)
+     
+
   
 
 
@@ -97,7 +103,15 @@ El tiempo está representado por una progresión vertical. EL tiempo se inicia e
 
 **Por cada ejemplo de diagrama de secuencia que aparece en las diapositivas, realiza su interpretación. Escribe la descripción con tus palabras.**
 
-------
+ - Ejemplo 1:
+   
+     ![imagen](imagenes/Ejemplo_1_secuencia.png)
+     
+       
+ ------
+ - Ejemplo 2:
+   
+     ![imagen](imagenes/Ejemplo_2_secuencia.png)
 
 
 
@@ -173,7 +187,17 @@ El tiempo está representado por una progresión vertical. EL tiempo se inicia e
 
 2. **Por cada ejemplo de diagrama de estados que aparece en las diapositivas, realiza su interpretación. Escribe la descripción con tus palabras.**
 
-   ------
+- Ejemplo 1:
+   
+     ![imagen](imagenes/Ejemplo_1_estado.png)
+     
+       
+ ------
+ - Ejemplo 2:
+   
+     ![imagen](imagenes/Ejemplo_2_estado.png)
+
+  
 
 
 
@@ -197,3 +221,14 @@ El tiempo está representado por una progresión vertical. EL tiempo se inicia e
    ------
 
 2. **Por cada ejemplo de diagrama de actividades que aparece en las diapositivas, realiza su interpretación. Escribe la descripción con tus palabras.**
+
+- Ejemplo 1:
+   
+     ![imagen](imagenes/Ejemplo_1_actividades.png)
+     
+       
+ ------
+- Ejemplo 2:
+   
+     ![imagen](imagenes/Ejemplo_2_actividades.png)
+
