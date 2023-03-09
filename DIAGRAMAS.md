@@ -62,11 +62,16 @@
    
      ![imagen](imagenes/Ejemplo_1-2_casos_de_uso.png)
      
+En un sistema de compra digital se quiere organizar los datos de los clientes que compra online. Todos los clientes, tanto los que están registrados como los que son nuevos, son clientes de la web.
+Para hacer la compra primero se tiene que autentificarse con un proveedor de identidad y luego acceder a los métodos de pagos, puede ser a traves de pago de crédito o PayPal.
+     
  ------
  - Ejemplo 2:
    
      ![imagen](imagenes/Ejemplo_2_casos_de_uso.png)
      
+Es un sistema para asistencia en un hospital, se tiene que estar registrado en el hospital que quiere.
+Para ello, la recepcionista tiene que acceder a la hospitalización del paciente, y luego al registro del paciente para poder programar el ingreso al hospital del paciente mediante una cita.
 
   
 
@@ -107,11 +112,15 @@ El tiempo está representado por una progresión vertical. EL tiempo se inicia e
    
      ![imagen](imagenes/Ejemplo_1_secuencia.png)
      
+  En la librería online, el cliente online/ de la web puede acceder a la librería online o poder comprar en una librería digital.
+     
        
  ------
  - Ejemplo 2:
    
      ![imagen](imagenes/Ejemplo_2_secuencia.png)
+  
+En un sistema de autentificación de usuarios de Facebook, el personal/usuario obtiene su recurso FB para acceder al navegador web con un formulario de permiso. O puede entrar con su permiso de usuario, y luego se accede al servidor de Facebook, después de pasar el proceso de permiso.
 
 
 
@@ -191,11 +200,17 @@ El tiempo está representado por una progresión vertical. EL tiempo se inicia e
    
      ![imagen](imagenes/Ejemplo_1_estado.png)
      
+Es un sistema para representar los diferentes estados del agua, donde pasa de estado de hielo a liquido, esta a su vez pasa a vapor de agua y que termina en plasma, o también puede ser viceversa.
+
+Primero, desde el estado de hielo puede pasar a ser Estado liquido y al contrario Vapor de agua,
+     
        
  ------
  - Ejemplo 2:
    
      ![imagen](imagenes/Ejemplo_2_estado.png)
+     
+El estado se inicia con un nuevo estado que empieza a ejecutarse, y esta a su vez, es decir, dentro de lo ejecutado, se inicia de nuevo y que pasa del estado preparado a corriendo o funcionando, donde se selecciona los hilos por un programador de hilo. Y así pasa se termina el estado de ejecutable y se termina el hilo.
 
   
 
@@ -226,9 +241,15 @@ El tiempo está representado por una progresión vertical. EL tiempo se inicia e
    
      ![imagen](imagenes/Ejemplo_1_actividades.png)
      
+En un sistema de compra online, se inicia la actividad B con un nodo de decisión, que decide entre buscar y navegar en los artículos. Esta se fusiona cuando ya tiene la decisión de buscar artículos, como resultado acaba en otro nodo de decisión, en la que encuentra o no encuentra los artículos seleccionado, y que acaba con poder ver los artículos que ha seleccionado.
+     
        
  ------
 - Ejemplo 2:
+
+ ![imagen](imagenes/Ejemplo_2_actividades.png)
+ 
+Para que funcione el sistema que procesa ordenes, se inicia con que recibe una orden que anteriormente lo solicita. Esta sigue adelante, hasta que tiene que tomar una decisión de que la orden fue aceptada o la orden fue rechazada. Si la orden fue rechazada la acción termina con una orden cerrada y finaliza todo el proceso.
    
-     ![imagen](imagenes/Ejemplo_2_actividades.png)
+    
 
