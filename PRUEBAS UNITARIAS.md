@@ -38,19 +38,19 @@
 
 4. **Nombra al menos 4 pruebas funcionales.**
 
-   1. Pruebas de caja negra: Esta prueba se enfoca en probar la funcionalidad del software sin conocer su estructura interna, se evalúa la entrada y salida del software y se busca validar que el software cumpla con los requisitos y expectativas del usuario.
-   2. Pruebas de integración: Esta prueba se enfoca en probar la funcionalidad de las diferentes partes del software cuando se integran entre sí, buscando asegurar que todas las piezas del software funcionen juntas como un todo.
-   3. Pruebas de regresión: Esta prueba se enfoca en probar si los cambios en el software han afectado a su funcionalidad original y si se han introducido errores en áreas previamente funcionales.
-   4. Pruebas de aceptación: Esta prueba se enfoca en probar la funcionalidad del software desde la perspectiva del usuario final, asegurando que el software cumpla con las necesidades y expectativas del cliente y esté listo para su lanzamiento y uso en un entorno de producción.
+   - Pruebas de caja negra: Esta prueba se enfoca en probar la funcionalidad del software sin conocer su estructura interna, se evalúa la entrada y salida del software y se busca validar que el software cumpla con los requisitos y expectativas del usuario.
+   - Pruebas de integración: Esta prueba se enfoca en probar la funcionalidad de las diferentes partes del software cuando se integran entre sí, buscando asegurar que todas las piezas del software funcionen juntas como un todo.
+   - Pruebas de regresión: Esta prueba se enfoca en probar si los cambios en el software han afectado a su funcionalidad original y si se han introducido errores en áreas previamente funcionales.
+   - Pruebas de aceptación: Esta prueba se enfoca en probar la funcionalidad del software desde la perspectiva del usuario final, asegurando que el software cumpla con las necesidades y expectativas del cliente y esté listo para su lanzamiento y uso en un entorno de producción.
 
    ------
 
 5. **Nombra al menos 4 pruebas no funcionales.**
 
-   1. Pruebas de rendimiento: Esta prueba se enfoca en evaluar el desempeño del software en términos de velocidad, escalabilidad, capacidad de procesamiento y capacidad de respuesta bajo cargas de trabajo y condiciones diferentes.
-   2. Pruebas de seguridad: Esta prueba se enfoca en evaluar la seguridad del software, buscando detectar vulnerabilidades y errores que puedan ser explotados por un atacante malintencionado.
-   3. Pruebas de usabilidad: Esta prueba se enfoca en evaluar la facilidad de uso y la accesibilidad del software para el usuario final, y buscar detectar problemas de navegación, diseño o usabilidad que puedan afectar la experiencia del usuario.
-   4. Pruebas de compatibilidad: Esta prueba se enfoca en evaluar la compatibilidad del software con diferentes plataformas, sistemas operativos, navegadores web y otros componentes de software, buscando asegurar que el software se ejecute de forma adecuada en diferentes configuraciones de hardware y software.
+   - Pruebas de rendimiento: Esta prueba se enfoca en evaluar el desempeño del software en términos de velocidad, escalabilidad, capacidad de procesamiento y capacidad de respuesta bajo cargas de trabajo y condiciones diferentes.
+   - Pruebas de seguridad: Esta prueba se enfoca en evaluar la seguridad del software, buscando detectar vulnerabilidades y errores que puedan ser explotados por un atacante malintencionado.
+   - Pruebas de usabilidad: Esta prueba se enfoca en evaluar la facilidad de uso y la accesibilidad del software para el usuario final, y buscar detectar problemas de navegación, diseño o usabilidad que puedan afectar la experiencia del usuario.
+   - Pruebas de compatibilidad: Esta prueba se enfoca en evaluar la compatibilidad del software con diferentes plataformas, sistemas operativos, navegadores web y otros componentes de software, buscando asegurar que el software se ejecute de forma adecuada en diferentes configuraciones de hardware y software.
 
    ------
 
