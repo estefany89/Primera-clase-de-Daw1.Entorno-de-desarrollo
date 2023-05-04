@@ -133,14 +133,14 @@
     En resumen, las pruebas de aceptación son un tipo de prueba de software que se realiza para determinar si el software cumple con los requisitos y expectativas del cliente y si está listo para su lanzamiento y uso en un entorno de producción.
 
 13. **Instala el plugin Gradle para Netbeans**
-![imagen](imagenes/unitaria1.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0a5c07a6dcb01fa32baa2288c32e6c1b88674d2f/imagenes/unitaria1.png)
 ------
 
 14. **Crea un proyecto nuevo de tipo Single Gradle Project y nombre empleado, que contenga la clase principal Empleado**
-![imagen](imagenes/unitaria2.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0a5c07a6dcb01fa32baa2288c32e6c1b88674d2f/imagenes/unitaria3.png)
 ------
 
-![imagen](imagenes/unitaria3.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0a5c07a6dcb01fa32baa2288c32e6c1b88674d2f/imagenes/unitaria2.png))
 ------
 
 15. **En Sources Packages edita el código de la clase Empleado y en Test Packages edita el código de la clase EmpleadoTest.**
@@ -149,12 +149,13 @@ Sigue los pasos indicados en el siguiente tutorial:
 
     https://www.discoduroderoer.es/como-hacer-una-aplicacion-de-prueba-con-junit/
 
-NOTA: En JUnit, el método con anotación @BeforeClass debe ser estático y, por tanto, las variables y objetos de los que haga uso también deben serlo.
 
-![imagen](imagenes/unitaria4.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0a5c07a6dcb01fa32baa2288c32e6c1b88674d2f/imagenes/unitaria4.png)
 ------
-![imagen](imagenes/unitaria5.png)
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/0a5c07a6dcb01fa32baa2288c32e6c1b88674d2f/imagenes/unitaria5.png)
 ------
+
+NOTA: En JUnit, el método con anotación @BeforeClass debe ser estático y, por tanto, las variables y objetos de los que haga uso también deben serlo.
 
 16. **Pulsa Alt+F6 para construir y ejecutar las pruebas.**
 ![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/5223e718be0c1851bdba18ea740e9b60ec86115f/imagenes/unitaria6.png)
