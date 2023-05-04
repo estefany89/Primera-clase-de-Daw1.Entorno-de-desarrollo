@@ -131,3 +131,33 @@
     El objetivo principal de las pruebas de aceptación es asegurarse de que el software cumpla con las necesidades y expectativas del cliente y esté listo para su lanzamiento y uso en un entorno de producción. Si se identifican problemas o errores en esta etapa, se pueden hacer los ajustes necesarios antes de la implementación del software en el ambiente de producción.
 
     En resumen, las pruebas de aceptación son un tipo de prueba de software que se realiza para determinar si el software cumple con los requisitos y expectativas del cliente y si está listo para su lanzamiento y uso en un entorno de producción.
+
+13. **Instala el plugin Gradle para Netbeans**
+![imagen](imagenes/unitaria1.png)
+------
+
+14. **Crea un proyecto nuevo de tipo Single Gradle Project y nombre empleado, que contenga la clase principal Empleado**
+![imagen](imagenes/unitaria2.png)
+------
+
+![imagen](imagenes/unitaria3.png)
+------
+
+15. **En Sources Packages edita el código de la clase Empleado y en Test Packages edita el código de la clase EmpleadoTest.**
+
+Sigue los pasos indicados en el siguiente tutorial:
+
+    https://www.discoduroderoer.es/como-hacer-una-aplicacion-de-prueba-con-junit/
+
+NOTA: En JUnit, el método con anotación @BeforeClass debe ser estático y, por tanto, las variables y objetos de los que haga uso también deben serlo.
+
+![imagen](imagenes/unitaria4.png)
+------
+![imagen](imagenes/unitaria5.png)
+------
+
+16. **Pulsa Alt+F6 para construir y ejecutar las pruebas.**
+![imagen](https://github.com/estefany89/Primera-clase-de-Daw1.Entorno-de-desarrollo/blob/5223e718be0c1851bdba18ea740e9b60ec86115f/imagenes/unitaria6.png)
+------
+
+NOTA: Existen muchas otras tareas que pueden realizarse en Gradle. Sin embargo, la tarea run fallará puesto que no existe método main.
